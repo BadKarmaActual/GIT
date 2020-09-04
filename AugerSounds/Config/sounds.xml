@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <configs>
+    <set xpath="/Sounds/SoundDataNode[@name='Auger_Fire_Start']/AudioClip[@ClipName='Sounds/Weapons/Motorized/Auger/Auger_Fire_Start']/@ClipName">Sounds/Vehicles/Motorbike/motorbike_mid_speed_lp</set>
+    <set xpath="/Sounds/SoundDataNode[@name='Auger_Fire_Start']/AudioClip[@ClipName='Sounds/Weapons/Motorized/Auger/auger_fire_lp']/@ClipName">Sounds/Vehicles/Motorbike/motorbike_mid_speed_lp</set>
+    <set xpath="/Sounds/SoundDataNode[@name='Auger_Fire_Start']/AudioClip[@ClipName='Sounds/Weapons/Motorized/Auger/auger_fire_end']/@ClipName">Sounds/Vehicles/Motorbike/motorbike_mid_speed_lp</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitmetal']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitmetal1']/@ClipName">Sounds/ImpactSurface/bullethitearth1</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitmetal']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitmetal2']/@ClipName">Sounds/ImpactSurface/bullethitearth2</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitmetal']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitmetal3']/@ClipName">Sounds/ImpactSurface/bullethitearth3</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitstone']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitstone1']/@ClipName">Sounds/ImpactSurface/bullethitearth1</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitstone']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitstone2']/@ClipName">Sounds/ImpactSurface/bullethitearth2</set>
+    <set xpath="/Sounds/SoundDataNode[@name='bullethitstone']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitstone3']/@ClipName">Sounds/ImpactSurface/bullethitearth3</set>
+  </configs>
+	
